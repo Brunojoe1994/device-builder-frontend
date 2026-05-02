@@ -16,4 +16,4 @@
  * actions, schema lookups, save-back hooks). Re-enable by setting this
  * to `true` once those land.
  */
-export const AUTOMATIONS_ENABLED = false;
+export const AUTOMATIONS_ENABLED = true;
